@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\FinCore.Application\FinCore.Application.csproj" />
+    <ProjectReference Include="..\..\Core\FinCore.Domain\FinCore.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/FinCore.Application/FinCore.Application.csproj" />
+    <Project Path="Core/FinCore.Domain/FinCore.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/FinCore.Persistence/FinCore.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/FinCore.WepAPI/FinCore.WepAPI.csproj" />
+  </Folder>
+</Solution>
